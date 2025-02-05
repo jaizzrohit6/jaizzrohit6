@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/jaizzrohit6" target="blank"><img src="https://img.shields.io/twitter/follow/jaizzrohit6?logo=twitter&style=for-the-badge" alt="jaizzrohit6" /></a> </p>
 
-<a href="https://app.daily.dev/jaizzrohit6"><img  align="right" src="https://api.daily.dev/devcards/a26c924f429f469f8d1c01d343918968.png?r=js0" width="400" alt="Rohit Jaiswal's Dev Card"/></a>
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **rohit1952425@gmail.com**
